@@ -1,5 +1,8 @@
 # X-Ray görüntülerinden kırık kemik sınıflandırması
 Bu proje, derin öğrenme yöntemlerini kullanarak radyolojik görüntülerdeki kemik kırıklarını sınıflandırmak için geliştirilmiştir. Kemik kırıklarının doğru bir şekilde sınıflandırılması, tıbbi teşhis süreçlerinde önemli bir rol oynayabilir ve tedavi planlaması için değerli bilgiler sağlayabilir.
+![Ekran Görüntüsü (327)](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/3ca943dc-4a72-4837-9381-24147dd3d519)
+
+
 
 # Amaç
 Bu projenin ana amacı, derin öğrenme ve görüntü işleme tekniklerini kullanarak radyolojik görüntülerdeki kemik kırıklarını otomatik olarak sınıflandırmaktır. Bu sınıflandırma işlemi, farklı kemik kırığı tiplerinin tanımlanmasını ve teşhis edilmesini kolaylaştırarak sağlık profesyonellerine değerli bir araç sunmayı amaçlamaktadır.
