@@ -12,6 +12,9 @@ Bu model, Kaggle'a Nvidia tarafından sunulan, yüksek performanslı GPU "P100" 
 # Veri Kümesi
 Bu projede kullanılan veri kümesi FracAtlas veri setidir. Bu veri seti, çeşitli radyolojik görüntülerden oluşur. Veri kümesi, farklı tipteki kemik kırıklarını içerir ve etiketlenmiş veri noktalarıyla zenginleştirilmiştir.
 
+
+VERİ SETİ:https://github.com/VAC10/FracAtlas
+
 ![Ekran Görüntüsü (327)](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/3ca943dc-4a72-4837-9381-24147dd3d519)
 |      | **Fractured** | **Non_Fractured** | **Total** |
 |--------------|:----------:|--------------:|----------:|
