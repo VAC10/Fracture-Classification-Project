@@ -28,3 +28,13 @@ model_mobilenet.summary()
 
 # Erken durdurma geri çağrısını tanımlayalım
 early_stopping = EarlyStopping(monitor='val_loss', patience=5, restore_best_weights=True)
+
+
+
+history = model_mobilenet.fit(
+    X_train, y_train,
+    epochs=20,
+    batch_size=32,
+    validation_data=(X_test, y_test),
+    callbacks=[early_stopping]
+)
