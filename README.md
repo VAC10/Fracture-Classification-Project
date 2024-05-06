@@ -4,7 +4,7 @@ Bu proje, derin öğrenme yöntemlerini kullanarak radyolojik görüntülerdeki 
 
 
 # Amaç
-Bu projenin ana amacı, derin öğrenme ve görüntü işleme tekniklerini kullanarak radyolojik görüntülerdeki kemik kırıklarını otomatik olarak sınıflandırmaktır. Bu sınıflandırma işlemi, farklı kemik kırığı tiplerinin tanımlanmasını ve teşhis edilmesini kolaylaştırarak sağlık profesyonellerine değerli bir araç sunmayı amaçlamaktadır.
+Bu projenin ana amacı, derin öğrenme ve görüntü işleme tekniklerini kullanarak radyolojik görüntülerdeki kemik kırıklarını otomatik olarak sınıflandırmaktır. Bu sınıflandırma işlemi, farklı kemik kırığı tiplerinin tanımlanmasını ve teşhis edilmesini kolaylaştırarak sağlık profesyonellerine değerli bir araç sunabilir.
 
 # Veri Kümesi
 Bu projede kullanılan veri kümesi FracAtlas veri setidir. Bu veri seti, çeşitli radyolojik görüntülerden oluşur. Veri kümesi, farklı tipteki kemik kırıklarını içerir ve etiketlenmiş veri noktalarıyla zenginleştirilmiştir.
