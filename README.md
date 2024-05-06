@@ -12,6 +12,6 @@ Bu projede kullanılan veri kümesi FracAtlas veri setidir. Bu veri seti, çeşi
 ![Ekran Görüntüsü (327)](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/3ca943dc-4a72-4837-9381-24147dd3d519)
 |      | **Fractured** | **Non_Fractured** | **Total** |
 |--------------|:----------:|--------------:|----------:|
-| **Sayılar**    |    717    |          3366 |      4083 |
+| **Sınıf Dağılımları**    |    717    |          3366 |      4083 |
 
 
