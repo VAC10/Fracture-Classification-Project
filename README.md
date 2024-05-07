@@ -1,5 +1,5 @@
 # X-Ray görüntülerinden kırık kemik sınıflandırması
-Bu proje, derin öğrenme yöntemlerini kullanarak radyolojik görüntülerdeki kemik kırıklarını sınıflandırmak için geliştirilmiştir. Kemik kırıklarının doğru bir şekilde sınıflandırılması, tıbbi teşhis süreçlerinde önemli bir rol oynayabilir ve tedavi planlaması için değerli bilgiler sağlayabilir.
+Bu proje, derin öğrenme yöntemlerini kullanarak radyolojik görüntülerdeki kemik kırıklarını sınıflandırmak için geliştirilmiştir. Kemik kırıklarının doğru bir şekilde sınıflandırılması, tıbbi teşhis süreçlerinde önemli bir rol oynayabilir, Hızlı ve güvenilir tanı için destek sağlar ve tedavi planlaması için değerli bilgiler verebilir.
 
 
 
@@ -31,3 +31,26 @@ MobileNet,DenseNet,Xception mimarileriyle çalıştım. Model çıktılarında b
 Bu projenin çalışma mantığı ve alacağımız çıktılar aşağıda belirtilmiştir.
 
 ![Ekran Görüntüsü (357)](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/96e82260-e3ba-4ecc-9c6f-aa32dc637c9e)
+
+
+# Kullanılan Mimariler
+
+
+## MobileNet
+MobileNet,Google tarafından geliştirilen hafif ve etkili bir evrişimli sinir ağı (CNN) mimarisidir. Mobil cihazlar gibi kaynak kısıtlı ortamlarda kullanılmak üzere tasarlanmıştır. Bu mimari, yüksek doğrulukla birlikte düşük hesaplama gücü ve bellek gereksinimleriyle öne çıkar. Özellikle nesne tanıma, yüz tanıma ve diğer görüntü sınıflandırma görevlerinde yaygın olarak kullanılır. MobileNet'in temel amacı, büyük ve karmaşık ağların (örneğin, VGG, ResNet) hesaplama ve bellek gereksinimlerini azaltmaktır. Bu amaçla, bir dizi özelleştirilmiş mimari değişikliği ve optimizasyon yapılmıştır.
+
+![MobileNet-Arch](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/4acd9417-a9a6-4da7-a6e8-07579f3b1de4)
+
+
+## DenseNet
+DenseNet, yoğun bağlantıları ve yoğun bloklarıyla bilinen derin öğrenme modelidir. ResNet'in bir tür genelleştirmesi olarak düşünülebilir. Yoğun bağlantılar, her katmanın önceki tüm katmanlarla birleştirilmesini içerir, bu da daha fazla gradyan akışını ve daha iyi öğrenme hızını sağlar. Bu, ağın "büyümesi" anlamına gelir, çünkü her katmanın önceki katmanların çıktılarına erişimi vardır.
+
+![DenseNet-Arch](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/f947509c-087e-442b-a75c-cb3d0151f348)
+
+## Xception
+Xception, Extreme Inception olarak da adlandırılan bir evrişimli sinir ağı (CNN) mimarisidir. Bu mimari, Google tarafından geliştirilmiştir ve ImageNet veri seti üzerindeki görevlerde başarıyla kullanılmıştır. Xception, hesaplama maliyetini azaltmak ve modelin öğrenme kapasitesini artırmak için bir dizi yenilikçi teknik kullanır.
+
+![Xception-architecture](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/facfb069-0a3d-45dc-a9b8-c7726fe9c5ef)
+
+
+
