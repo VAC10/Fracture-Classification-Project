@@ -7,6 +7,7 @@ Bu proje, derin öğrenme yöntemlerini kullanarak radyolojik görüntülerdeki 
 Bu projenin ana amacı, derin öğrenme ve görüntü işleme tekniklerini kullanarak radyolojik görüntülerdeki kemik kırıklarını otomatik olarak sınıflandırmaktır. Bu sınıflandırma işlemi, farklı kemik kırığı tiplerinin tanımlanmasını ve teşhis edilmesini kolaylaştırarak sağlık profesyonellerine değerli bir araç sunabilir.
 
 # Kullanılan Teknolojiler
+Python programlama dili kullanılıp; Sklearn, pandas, matplotlib, keras, tensorflow, numpy,seaborn vs. Kütüphaneler kullanılmıştır.
 Bu model, Kaggle'a Nvidia tarafından sunulan, yüksek performanslı GPU "P100" ile eğitilmiştir.
 
 # Veri Kümesi
