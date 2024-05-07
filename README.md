@@ -28,10 +28,10 @@ Yukarıdaki sınıf dağılımlarında görüleceği üzere unbalanced(dengesiz)
 
 # Algoritma ve çalışma Mantığı
 Algoritma olarak Derin Öğrenmenin güçlü  mimarilerinden olan
-MobileNet,DenseNet,Xception mimarileriyle çalıştım. Model çıktılarında bu modellerle ilgili daha geniş bilgiler verilecektir.
+MobileNet,DenseNet,Xception mimarileriyle çalıştım. Model çıktılarında bu modellerle 
+ilgili daha geniş bilgiler verilecektir.
 Bu projenin çalışma mantığı ve alacağımız çıktılar aşağıda belirtilmiştir.
-
-![Ekran Görüntüsü (357)](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/96e82260-e3ba-4ecc-9c6f-aa32dc637c9e)
+i![Algorithm](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/fc9cea12-0542-4da7-b19a-e7b1c9682914)
 
 
 # Kullanılan Mimariler
