@@ -97,9 +97,11 @@ Vektörleştirme işlemi, ham veriyi (metin, görüntü, ses vb.) makine öğren
 
 
   ### ENSEMBLE MİMARİSİ:
-  ![Ekran Görüntüsü (408)](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/bbae40e7-eeba-43bf-bf6b-026e49c774fb)
 
-![Ekran Görüntüsü (404)](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/4498468a-029b-4b60-95c9-37e9340e42d8)
+![Ekran Görüntüsü (413)](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/174caa99-6fe5-41d4-8533-9cd66b4c8caf)
+
+![Ekran Görüntüsü (404)](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/839fc72a-29fb-47c7-abb2-a8909931db9e)
+
 
 
 
