@@ -89,16 +89,19 @@ Bu token, son Transformer bloğundan çıkan özellikleri kullanarak, bir sını
 
 ### Vektörize Etme İşlemi:
 Vektörleştirme işlemi, ham veriyi (metin, görüntü, ses vb.) makine öğrenimi modellerinin işleyebileceği sayısal formatlara dönüştürme sürecidir. 
-* Herbir modelin son katmanından elde edilen High Level Deep Feature(Yüksek seviyeli derin özellikler) aşağıdaki gibi vektörize edilirler.
+* Herbir modelden elde edilen probablity(olasılıksal) değerler aşağıdaki gibi vektörize edilirler.
   
 ![vektörize işlemi](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/f9fcc9e2-e7ec-4efe-a4dc-80956dd8b722)
 
 
-  
-  ### ENSEMBLE MİMARİSİ:
-![Ekran Görüntüsü (397)](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/235ae0b8-2f1a-49ae-8a34-e2eec339f6bd)
 
-![Ekran Görüntüsü (404)](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/9ea02de3-3af7-4b09-bd34-d7c72a3213e7)
+
+  ### ENSEMBLE MİMARİSİ:
+  ![Ekran Görüntüsü (408)](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/bbae40e7-eeba-43bf-bf6b-026e49c774fb)
+
+![Ekran Görüntüsü (404)](https://github.com/VAC10/Fracture-Classification-Project/assets/81007065/4498468a-029b-4b60-95c9-37e9340e42d8)
+
+
 
 
 
